@@ -1,5 +1,5 @@
 # Simple tetris program! v0.2
-# D. Crandall, Sept 2016
+
 
 from AnimatedTetris import *
 from SimpleTetris import *
