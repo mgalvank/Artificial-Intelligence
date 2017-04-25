@@ -1,7 +1,4 @@
 
-# DON'T MODIFY THIS FILE! Or else we might not be able to grade your submission properly.
-#
-
 from TetrisGame import *
 
 class AnimatedTetris(TetrisGame):
