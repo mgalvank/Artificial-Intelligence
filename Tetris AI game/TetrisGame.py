@@ -1,7 +1,4 @@
 
-# DON'T MODIFY THIS FILE! Or else we might not be able to grade your submission properly.
-#
-
 
 import sys, time, random, threading, thread
 
